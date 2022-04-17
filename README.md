@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @triledinh159
 - 👀 I’m interested in USSR.
 - 🌱 I’m currently learning how to make USSR reunite and great again.
-- 💞️ I’m looking to collaborate on Bolsevik comrade
+- 💞️ I’m looking to collaborate on Bolsevik comrades
 - 📫 Me as MasterYuri
 
 <!---
