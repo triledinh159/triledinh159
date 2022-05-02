@@ -2,7 +2,8 @@
 - 👀 I’m interested in USSR.
 - 🌱 I’m currently learning how to make USSR reunite and great again.
 - 💞️ I’m looking to collaborate on Bolsevik comrades
-- 📫 Me as MasterYuri
+- 📫 Me as MasterYuri 
+- 📫 Contact: triledinh159@gmail.com
 
 <!---
 triledinh159/triledinh159 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
