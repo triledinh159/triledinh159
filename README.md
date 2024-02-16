@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @triledinh159
-- 👀 I’m interested in USSR.
-- 🌱 I’m currently learning how to make USSR reunite and great again.
-- 💞️ I’m looking to collaborate on Bolsevik comrades
-- 📫 Me as MasterYuri 
+- 👀 I’m interested in Cloud Computing, Virtualization, Networking, etc.
+- 🌱 I’m currently an NC-UIT Student.
+- 💞️ I’m looking to collaborate on network, IoT, automation, virtualization, cloud and some research projects.
+- 📫 Me as MasterYuri.
 - 📫 Contact: triledinh159@gmail.com
 
 <!---
